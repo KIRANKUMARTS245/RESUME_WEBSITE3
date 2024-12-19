@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color:silver;
 }
 header {
     background-color: #27ecc8;
@@ -22,8 +23,8 @@ a {
     color: rgb(4, 3, 16);
 }
 footer {
-    background-color: #d075bb;
-    color: white;
+    background-color: #e4aad6;
+    color: rgb(43, 17, 240);
     text-align: center;
     padding: 10px 0;
 }
